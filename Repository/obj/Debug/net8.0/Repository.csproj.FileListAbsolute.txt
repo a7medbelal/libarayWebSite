@@ -1,0 +1,15 @@
+F:\project\LibarayWebSite\Repository\bin\Debug\net8.0\Repository.deps.json
+F:\project\LibarayWebSite\Repository\bin\Debug\net8.0\Repository.dll
+F:\project\LibarayWebSite\Repository\bin\Debug\net8.0\Repository.pdb
+F:\project\LibarayWebSite\Repository\bin\Debug\net8.0\Domain.dll
+F:\project\LibarayWebSite\Repository\bin\Debug\net8.0\Domain.pdb
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.dll
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\refint\Repository.dll
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\Repository.pdb
+F:\project\LibarayWebSite\Repository\obj\Debug\net8.0\ref\Repository.dll

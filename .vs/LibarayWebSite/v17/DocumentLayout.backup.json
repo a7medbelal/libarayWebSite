@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\project\\LibarayWebSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAA3D61-756B-46BF-BD3B-F651771CAA44}|Repository\\Repository.csproj|f:\\project\\libaraywebsite\\repository\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAA3D61-756B-46BF-BD3B-F651771CAA44}|Repository\\Repository.csproj|solutionrelative:repository\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|f:\\project\\libaraywebsite\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAA3D61-756B-46BF-BD3B-F651771CAA44}|Repository\\Repository.csproj|f:\\project\\libaraywebsite\\repository\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAA3D61-756B-46BF-BD3B-F651771CAA44}|Repository\\Repository.csproj|solutionrelative:repository\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAA3D61-756B-46BF-BD3B-F651771CAA44}|Repository\\Repository.csproj|f:\\project\\libaraywebsite\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AAA3D61-756B-46BF-BD3B-F651771CAA44}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|f:\\project\\libaraywebsite\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955225A-5C3B-44B5-B4E2-A746EFEDCAC3}|Services\\Services.csproj|f:\\project\\libaraywebsite\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7955225A-5C3B-44B5-B4E2-A746EFEDCAC3}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61460C4E-AB5B-49BB-ABA8-B02696992937}|LibarayWebSite\\LibarayWebSite.csproj|f:\\project\\libaraywebsite\\libaraywebsite\\libaraywebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61460C4E-AB5B-49BB-ABA8-B02696992937}|LibarayWebSite\\LibarayWebSite.csproj|solutionrelative:libaraywebsite\\libaraywebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|f:\\project\\libaraywebsite\\domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|solutionrelative:domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61460C4E-AB5B-49BB-ABA8-B02696992937}|LibarayWebSite\\LibarayWebSite.csproj|f:\\project\\libaraywebsite\\libaraywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61460C4E-AB5B-49BB-ABA8-B02696992937}|LibarayWebSite\\LibarayWebSite.csproj|solutionrelative:libaraywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61460C4E-AB5B-49BB-ABA8-B02696992937}|LibarayWebSite\\LibarayWebSite.csproj|f:\\project\\libaraywebsite\\libaraywebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61460C4E-AB5B-49BB-ABA8-B02696992937}|LibarayWebSite\\LibarayWebSite.csproj|solutionrelative:libaraywebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|f:\\project\\libaraywebsite\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580D7F9D-386E-4C96-9C27-4E82F73FD788}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Domain\\Models\\User.cs*",
+              "RelativeToolTip": "Domain\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:19:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\LibarayWebSite\\appsettings.json",
+              "RelativeDocumentMoniker": "LibarayWebSite\\appsettings.json",
+              "ToolTip": "F:\\project\\LibarayWebSite\\LibarayWebSite\\appsettings.json",
+              "RelativeToolTip": "LibarayWebSite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T20:14:17.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\LibarayWebSite\\Program.cs",
+              "RelativeDocumentMoniker": "LibarayWebSite\\Program.cs",
+              "ToolTip": "F:\\project\\LibarayWebSite\\LibarayWebSite\\Program.cs",
+              "RelativeToolTip": "LibarayWebSite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:12:52.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Domain\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BaseModel.cs",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Domain\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Domain\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:05:11.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:03:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Repository\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\Repository.cs",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Repository\\Data\\Repository.cs",
+              "RelativeToolTip": "Repository\\Data\\Repository.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAowIsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:53:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibarayWebSite",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\LibarayWebSite\\LibarayWebSite.csproj",
+              "RelativeDocumentMoniker": "LibarayWebSite\\LibarayWebSite.csproj",
+              "ToolTip": "F:\\project\\LibarayWebSite\\LibarayWebSite\\LibarayWebSite.csproj*",
+              "RelativeToolTip": "LibarayWebSite\\LibarayWebSite.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:49:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Repository\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\Context.cs",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Repository\\Data\\Context.cs*",
+              "RelativeToolTip": "Repository\\Data\\Context.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:52:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Services",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:49:45.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Repository\\Repository.csproj*",
+              "RelativeToolTip": "Repository\\Repository.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:49:54.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Domain",
+              "DocumentMoniker": "F:\\project\\LibarayWebSite\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "F:\\project\\LibarayWebSite\\Domain\\Domain.csproj*",
+              "RelativeToolTip": "Domain\\Domain.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:52:16.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 103,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2977,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
