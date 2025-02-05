@@ -1,12 +1,27 @@
-F:\project\LibarayWebSite\Domain\bin\Debug\net8.0\Domain.deps.json
-F:\project\LibarayWebSite\Domain\bin\Debug\net8.0\Domain.dll
-F:\project\LibarayWebSite\Domain\bin\Debug\net8.0\Domain.pdb
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\Domain.dll
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\refint\Domain.dll
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\Domain.pdb
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\ref\Domain.dll
-F:\project\LibarayWebSite\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:/project/LibarayWebSite/Domain/bin/Debug/net8.0/Domain.deps.json
+F:/project/LibarayWebSite/Domain/bin/Debug/net8.0/Domain.dll
+F:/project/LibarayWebSite/Domain/bin/Debug/net8.0/Domain.pdb
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/Domain.dll
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/refint/Domain.dll
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/Domain.pdb
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/ref/Domain.dll
+F:/project/LibarayWebSite/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/bin/Debug/net8.0/Domain.deps.json
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/bin/Debug/net8.0/Domain.dll
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/bin/Debug/net8.0/Domain.pdb
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.dll
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/refint/Domain.dll
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.pdb
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/ref/Domain.dll
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/bin/Debug/net8.0/Domain.runtimeconfig.json
+/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Domain/obj/Debug/net8.0/Domain.genruntimeconfig.cache

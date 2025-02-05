@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\project\\LibarayWebSite\\Services\\Services.csproj": {}
+    "/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Services/Services.csproj": {}
   },
   "projects": {
-    "F:\\project\\LibarayWebSite\\Services\\Services.csproj": {
+    "/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Services/Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\project\\LibarayWebSite\\Services\\Services.csproj",
+        "projectUniqueName": "/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Services/Services.csproj",
         "projectName": "Services",
-        "projectPath": "F:\\project\\LibarayWebSite\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Ahmed Balal\\.nuget\\packages\\",
-        "outputPath": "F:\\project\\LibarayWebSite\\Services\\obj\\",
+        "projectPath": "/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Services/Services.csproj",
+        "packagesPath": "/home/hossam/.nuget/packages/",
+        "outputPath": "/media/hossam/Data/Computer Science/Projects/C#/libarayWebSite/Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ahmed Balal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/hossam/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,16 +32,33 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
